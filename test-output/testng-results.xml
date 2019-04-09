@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="132184" started-at="2019-04-08T16:51:19Z" finished-at="2019-04-08T16:53:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="132184" started-at="2019-04-08T16:51:19Z" finished-at="2019-04-08T16:53:32Z">
+      <class name="com.emSigner.test.smoke.Testsample">
+        <test-method status="PASS" signature="precondtion()[pri:0, instance:com.emSigner.test.smoke.Testsample@167c1fc]" name="precondtion" is-config="true" duration-ms="87804" started-at="2019-04-08T16:51:19Z" finished-at="2019-04-08T16:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondtion -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.emSigner.test.smoke.Testsample@167c1fc]" name="test1" duration-ms="44202" started-at="2019-04-08T16:52:47Z" finished-at="2019-04-08T16:53:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:com.emSigner.test.smoke.Testsample@167c1fc]" name="postcondition" is-config="true" duration-ms="136" started-at="2019-04-08T16:53:31Z" finished-at="2019-04-08T16:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- com.emSigner.test.smoke.Testsample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
